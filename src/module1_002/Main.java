@@ -16,6 +16,12 @@ public class Main {
         int  age = sc.nextInt();
         System.out.println("Please enter your hobby: ");
         String  hobby = sc.next();
-       
+        ///////////////////////////////////////////////
+        //////////////* OUTPUT OF USER INPUT*//////////
+        System.out.println("!!!Variant #1!!! ");
+        System.out.println("Name: " + name);
+        System.out.println("City: " + city);
+        System.out.println("Age: " + age);
+        System.out.println("Hobby: " + hobby);
     }
 }
