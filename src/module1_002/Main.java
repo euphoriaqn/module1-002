@@ -23,5 +23,15 @@ public class Main {
         System.out.println("City: " + city);
         System.out.println("Age: " + age);
         System.out.println("Hobby: " + hobby);
+        ///////////////////////////////////////////////
+        System.out.println("!!!Variant #2!!! ");
+        System.out.println("A human named " + name + " lives in the city of " + city + ".");
+        System.out.println("This person is " + age + " years old and he/she loves " + hobby);
+        ///////////////////////////////////////////////
+        System.out.println("!!!Variant #3!!! ");
+        System.out.println(name + " - name");
+        System.out.println(city + " - city");
+        System.out.println(age + " - age");
+        
     }
 }
