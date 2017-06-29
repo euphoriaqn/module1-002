@@ -32,6 +32,6 @@ public class Main {
         System.out.println(name + " - name");
         System.out.println(city + " - city");
         System.out.println(age + " - age");
-        
+
     }
 }
